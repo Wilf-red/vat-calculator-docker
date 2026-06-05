@@ -1,0 +1,2 @@
+image: wilfr3d/vat:<+pipeline.sequenceId>
+replicas: 1
